@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  🚀 Aspiring GSoC 2026 Contributor | Building Robust Infrastructure
+ Building Robust Infrastructure
 </h3>
 
 <p align="center">
