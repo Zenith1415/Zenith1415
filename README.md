@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  I am a Full Stack & DevOps engineer passionate about <b>Open Source</b>, <b>CI/CD pipelines</b>, and <b>System Architecture</b>. Currently contributing to enterprise-grade Java projects like <b>Jenkins</b>.
+  I am a Full Stack & DevOps engineer passionate about <b>Open Source</b>, <b>CI/CD pipelines</b>, and <b>System Architecture</b>.
 </p>
 
 <div align="center">
