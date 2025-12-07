@@ -47,15 +47,7 @@
 
 ---
 
-### 🏆 Featured Open Source Contributions
 
-I focus on **backend logic** and **build system stability**.
-
-| Project | Pull Request | Impact | Tech |
-| :--- | :--- | :--- | :--- |
-| **Jenkins Core** | <a href="https://github.com/jenkinsci/jenkins/pull/23916"><b>Fix NPE in ReverseBuildTrigger #17611</b></a> | Fixed a critical crash where null upstream thresholds caused build failures. Implemented safety logic and JUnit 5 tests. | `Java` `JUnit 5` `Maven` |
-
----
 
 ### 📊 GitHub Stats
 
