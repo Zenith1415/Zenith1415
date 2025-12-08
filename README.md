@@ -52,12 +52,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zenith1415&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zenith1415&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zenith1415&show_icons=true&theme=darkt&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zenith1415&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zenith1415&theme=tokyonight&hide_border=true" alt="streak graph" />
+ <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Zenith1415&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=Zenith1415&theme=dark" />
 </div>
 
 ---
