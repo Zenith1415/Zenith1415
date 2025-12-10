@@ -56,10 +56,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zenith1415&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
 </div>
 
-<div align="center">
- <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Zenith1415&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=Zenith1415&theme=dark" />
-</div>
+
 
 ---
 
