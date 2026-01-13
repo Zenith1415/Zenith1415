@@ -60,6 +60,4 @@
 
 ---
 
-<p align="center">
-  <i>"Talk is cheap. Show me the code."</i>
-</p>
+
